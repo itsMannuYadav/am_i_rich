@@ -4,6 +4,8 @@ Am I Rich? is a simple Flutter application designed as a beginner-friendly proje
 
 This project holds a special place as it is my very first Flutter application, created after completing Angela Yu's popular Flutter course, "The Complete 2021 Flutter Development Bootcamp with Dart." The course provided a comprehensive introduction to Flutter and Dart, and this app is a testament to the skills and concepts I learned during the course.
 
+Interestingly, "Am I Rich?" gained popularity not because of its features but as a symbol of being rich. It became a fun and quirky way for users to showcase their "wealth" by simply displaying a diamond on their screens. This unique concept made it a memorable app despite its simplicity.
+
 ## Features
 
 - Cross-platform support: Runs on Android, iOS, Web, Windows, macOS, and Linux.
@@ -62,6 +64,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - [Dart Language](https://dart.dev/)
 - [Flutter Cookbook](https://docs.flutter.dev/cookbook)
 - [Angela Yu's Flutter Course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+
+## Additional Information
+
+The "Am I Rich?" app gained cultural significance as a symbol of wealth and exclusivity. While it didn't offer any special features, its simplicity and unique concept made it a talking point in tech and pop culture. The app was famously priced at $999.99 on the Apple App Store, making it one of the most expensive apps ever listed. Its high price tag and lack of functionality turned it into a status symbol for those who could afford it, sparking debates about luxury and digital exclusivity. Unfortunately, there isn't a dedicated Wikipedia article for the app, but its legacy continues to inspire similar projects.
 
 ---
 
