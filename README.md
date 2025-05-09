@@ -72,3 +72,4 @@ The "Am I Rich?" app gained cultural significance as a symbol of wealth and excl
 ---
 
 Happy coding!
+![screencapture-localhost-61094-2025-05-09-13_26_30](https://github.com/user-attachments/assets/d7d31ad5-cce4-4b56-b340-c5818279b124)
